@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Nelvari Himyar Ahmad Azzikra**.<br>
+
+Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/).<br>
+
+Saya mengambil jurusan **S1 Teknik Informatika**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nelvari-himyar-763991203/)ku ya.
+
 <!--
 **Nelvari/Nelvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
