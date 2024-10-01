@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/
 
 Saya mengambil jurusan **S1 Teknik Informatika**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nelvari-himyar-763991203/)ku ya.<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nelvarihimyar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)ku ya.<br>
 
 ### Github Statistic
 <p align="left">
