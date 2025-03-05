@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Nelvari Himyar Ahmad Azzikra**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/).<br>
+Saya seorang **Mahasiswa Alumni** dari [Universitas Dian Nuswantoro](https://dinus.ac.id/).<br>
 
 Saya mengambil jurusan **S1 Teknik Informatika**.<br>
 
