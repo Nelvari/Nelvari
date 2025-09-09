@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Nelvari Himyar Ahmad Azzikra**.<br>
 
-Saya seorang **Mahasiswa Alumni** dari [Universitas Dian Nuswantoro](https://dinus.ac.id/).<br>
-
-Saya mengambil jurusan **S1 Teknik Informatika**.<br>
+Saya seorang **IT Developer** dari [PT Sat Set Indonesia](https://satset.co.id/).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nelvarihimyar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)ku ya.<br>
 
