@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelvari</h1>
-<h3 align="center">IT Developer from PT Satset Indonesia</h3>
+<h3 align="center">IT Developer from PT Sat Set Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelvari&label=Profile%20views&color=0e75b6&style=flat" alt="nelvari" /> </p>
 
